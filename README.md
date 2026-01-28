@@ -5,29 +5,29 @@ In this final project, I created a shopping cart application for an online plant
 
 The Paradise Nursery shopping cart features include:
 
-    - A landing page with a button linking to the product listing page
+- A landing page with a button linking to the product listing page
 
-    - A navigation bar with links to the landing page, product listing page, and shopping cart page
+- A navigation bar with links to the landing page, product listing page, and shopping cart page
 
-    - A card for each plant showcasing its image, name, description, cost, and an Add to Cart button
+- A card for each plant showcasing its image, name, description, cost, and an Add to Cart button
 
-    - At least two sections describing different categories of plants (e.g., Aromatic Plants and Medicinal Plants)
+- At least two sections describing different categories of plants (e.g., Aromatic Plants and Medicinal Plants)
 
-    - A cart page displaying the products added to the cart
+- A cart page displaying the products added to the cart
 
-    - A cart card for each plant type, showing:
+- A cart card for each plant type, showing:
 
-        - Thumbnail
+    - Thumbnail
 
-        - Unit cost
+    - Unit cost
 
-        - Total cost per plant type
+    - Total cost per plant type
 
-        - Buttons to increase/decrease quantity
+    - Buttons to increase/decrease quantity
 
-        - A Delete button
+    - A Delete button
 
-    - Continue Shopping and Checkout buttons
+- Continue Shopping and Checkout buttons
 
 ✅ Learning Outcomes
 
