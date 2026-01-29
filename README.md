@@ -1,4 +1,7 @@
 # e-plantShopping (IBM)
+
+https://majdi-abi-dhiaf.github.io/e-plantShopping/
+
 🌿 Project Overview
 
 In this final project, I created a shopping cart application for an online plant shop that offers a variety of house plants.
